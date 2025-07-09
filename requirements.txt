@@ -1,0 +1,12 @@
+# requirements.txt
+sublist3r==1.0
+python-nmap==0.7.1
+streamlit==1.35.0
+langchain>=0.2.0
+openai>=1.30.0
+crewai>=0.28.11
+# Optional tools for full agentic stack
+# langgraph>=0.0.40
+# ollama if using local LLMs
+# boto3 and google-cloud-* for cloud scan agent
+# fastapi if you opt for API interface

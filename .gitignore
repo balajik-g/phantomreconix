@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env*
+
+# System files
+.DS_Store
+
+# Model weights or large data
+*.pt
+*.h5
+data/
+*.exe
+logs/*.*
